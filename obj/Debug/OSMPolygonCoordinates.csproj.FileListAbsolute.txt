@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\bin\Debug\OSMPolygonCoordinates.exe.config
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\bin\Debug\OSMPolygonCoordinates.exe
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\bin\Debug\OSMPolygonCoordinates.pdb
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\obj\Debug\OSMPolygonCoordinates.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\obj\Debug\OSMPolygonCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\obj\Debug\OSMPolygonCoordinates.exe
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\obj\Debug\OSMPolygonCoordinates.pdb
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\source\repos\OSMPolygonCoordinates\OSMPolygonCoordinates\obj\Debug\OSMPolygonCoordinates.csproj.CopyComplete
